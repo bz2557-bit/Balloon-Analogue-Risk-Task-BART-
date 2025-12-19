@@ -7,8 +7,8 @@ Participants pump a balloon to gain points, but the balloon may explode at an un
 
 A creative feature of this implementation is a **visible balloon-type manipulation**:
 
-* **Green balloons (“safe”)**: less likely to explode, but points grow more slowly
-* **Red balloons (“risky”)**: more likely to explode, but points grow faster
+* **Green balloons (safe)**: less likely to explode, but points grow more slowly
+* **Red balloons (risky)**: more likely to explode, but points grow faster
 
 This allows a basic experimental manipulation of how people adapt their pumping strategy under different risk or reward cues.
 
